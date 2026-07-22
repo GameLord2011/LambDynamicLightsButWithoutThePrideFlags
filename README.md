@@ -6,3 +6,4 @@ It's LambDynamicLights, but:
  - and without the annoying debug message
 
 You have to compile it on your own pc bcs GH Actions is broken for some reason :P
+цвфцвфцВФЦВФЦ
